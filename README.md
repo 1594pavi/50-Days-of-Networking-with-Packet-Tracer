@@ -16,12 +16,57 @@ Practical learning feels completely different from theory. Excited for Day 2!
 
 ---
 
-### Image 1 – Making the laptop wired to wireless
+### Making the laptop wired to wireless
 ![Making the laptop wired to wireless](https://github.com/user-attachments/assets/e7324c47-288d-4609-88fe-2c3eaab54f03)
 
-### Image 2 – Small home network built
-![Small home network built](https://github.com/user-attachments/assets/4c6df6e5-6c19-4b78-900f-0ab5b166af8c)
+### Built a Small home network 
+![Built a Small home network](https://github.com/user-attachments/assets/4c6df6e5-6c19-4b78-900f-0ab5b166af8c)
+
+___________________________________________________________________________________________________________________________________________________________________
+---
+
+## 🚀 Day 2/50 – 50 Days of Networking with Packet Tracer
+
+Today I learned about GUI and CLI configuration in Cisco Packet Tracer.
+
+✅ Explored Physical, Config, CLI, Desktop, and Services tabs  
+✅ Learned the difference between GUI and CLI  
+✅ Understood basic device configuration in routers, switches, PCs, and servers  
+✅ Explored IP configuration, wireless settings, and server services like DHCP and DNS  
+
+🛠️ Reflection:  
+Step by step moving from networking theory to practical learning. Understanding how devices are configured is making networking more interesting and easier to visualize.
 
 ---
 
-#Networking #CyberSecurity #CCNA #LearningJourney
+### 1️⃣ Physical Tab
+
+![Physical Tab](https://github.com/user-attachments/assets/5a6f4d03-9b5f-4b3c-b0b6-35e35289aa38)
+
+---
+
+### 2️⃣ Config Tab (GUI)
+
+![Config Tab](https://github.com/user-attachments/assets/9d60d01b-fd75-4422-be13-7e7fc35867a1)
+
+---
+
+### 3️⃣ CLI Tab
+
+![CLI Tab](https://github.com/user-attachments/assets/3814fcec-1596-4a2f-b520-2ab1db0df5cf)
+
+---
+
+### 4️⃣ Desktop Tab
+
+![Desktop Tab](https://github.com/user-attachments/assets/e3c3d8f3-c4ae-46aa-9204-37cd6b85e6c8)
+
+---
+
+### 5️⃣ Services Tab
+
+![Services Tab](https://github.com/user-attachments/assets/9c7bcf25-5939-4a43-813f-3832e6bf7511)
+
+---
+
+#CiscoPacketTracer #Networking #LearningJourney #CCNA #Cisco #PracticalLearning
