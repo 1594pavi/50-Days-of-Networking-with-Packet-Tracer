@@ -95,4 +95,4 @@ Today’s practical session helped me understand how two systems communicate in 
 ---
 
 ### 🎥 Day 3 Demo Video
-[Watch the Demo Video](./day%203.mp4)
+[Watch the Demo Video](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%203%20.mp4)
