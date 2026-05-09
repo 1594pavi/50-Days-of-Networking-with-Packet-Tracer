@@ -96,4 +96,3 @@ Today’s practical session helped me understand how two systems communicate in 
 
 ### 🎥 Day 3 Demo Video
 [Watch the Demo Video](./day%203.mp4)
-
