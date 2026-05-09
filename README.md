@@ -68,5 +68,31 @@ Step by step moving from networking theory to practical learning. Understanding 
 ![Services Tab](https://github.com/user-attachments/assets/9c7bcf25-5939-4a43-813f-3832e6bf7511)
 
 ---
+___________________________________________________________________________________________________________________________________________________________________
+## Day 3 – Connection Between Two Computers
 
-#CiscoPacketTracer #Networking #LearningJourney #CCNA #Cisco #PracticalLearning
+Today I learned how communication happens between two computers using Cisco Packet Tracer.
+
+✅ Learned:
+- Connected two PCs using a copper crossover cable
+- Configured static IP addresses manually
+- Tested connectivity using the ping command
+- Explored packet transmission using Simulation Mode
+
+🛠️ What I Did:
+- Added two PCs using drag and drop
+- Assigned IP addresses through:
+  Desktop → IP Configuration → Static
+- Verified the connection using ping in Command Prompt
+- Observed packet flow between sender and receiver in Simulation Mode
+
+📡 Result:
+The ping was successful, which means both computers communicated properly and data transmission was established successfully.
+
+🛠️ Reflection:
+Today’s practical session helped me understand how two systems communicate in a network and how packets travel between devices.
+
+---
+
+### 🎥 Day 3 Demo Video
+
