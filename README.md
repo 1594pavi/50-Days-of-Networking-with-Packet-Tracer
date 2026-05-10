@@ -92,7 +92,6 @@ The ping was successful, which means both computers communicated properly and da
 🛠️ Reflection:
 Today’s practical session helped me understand how two systems communicate in a network and how packets travel between devices.
 
----
 
 ### 🎥 Day 3 Demo Video
 [Watch the Demo Video](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%203%20.mp4)
