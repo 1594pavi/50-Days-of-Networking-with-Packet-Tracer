@@ -95,3 +95,36 @@ Today’s practical session helped me understand how two systems communicate in 
 
 ### 🎥 Day 3 Demo Video
 [Watch the Demo Video](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%203%20.mp4)
+
+___________________________________________________________________________________________________________________________________________________________________
+## Day 4 – Star Topology using Switch
+
+Today I learned how devices communicate in a Star Topology using a switch in Cisco Packet Tracer.
+
+✅ Learned:
+
+* Connected 3 PCs to a switch using copper straight-through cables
+* Configured static IP addresses manually
+* Tested connectivity using the ping command
+* Explored packet transmission using Simulation Mode
+
+🛠️ What I Did:
+
+* Added one switch and three PCs using drag and drop
+* Connected all PCs to the switch
+* Assigned IP addresses through:
+  Desktop → IP Configuration → Static
+* Verified communication using ping in Command Prompt
+* Observed packet flow through the switch in Simulation Mode
+
+📡 Result:
+The ping was successful, which means all devices communicated properly through the central switch.
+
+🛠️ Reflection:
+Today’s practical session helped me understand how a switch works in a star topology and how data travels between connected devices.
+
+### 🎥 Day 4 Demo Video
+[Watch the Demo Video]([https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%203%20.mp4](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%204.mp4))
+
+#CiscoPacketTracer #Networking #LearningJourney
+---
