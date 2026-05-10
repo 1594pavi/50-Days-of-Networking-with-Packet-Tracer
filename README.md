@@ -124,7 +124,7 @@ The ping was successful, which means all devices communicated properly through t
 Today’s practical session helped me understand how a switch works in a star topology and how data travels between connected devices.
 
 ### 🎥 Day 4 Demo Video
-[Watch the Demo Video]([https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%203%20.mp4](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%204.mp4))
+[Watch the Demo Video](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%204.mp4)
 
 #CiscoPacketTracer #Networking #LearningJourney
 ---
