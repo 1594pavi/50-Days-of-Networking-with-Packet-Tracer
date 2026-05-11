@@ -171,7 +171,8 @@ Today’s session helped me understand how Cisco Packet Tracer stores activities
 * Now considered deprecated
 
 ---
-(https://github.com/user-attachments/assets/5cb47e70-338d-4ca8-b031-183cacccd775)
+### Definitions 
+![Definitions](https://github.com/user-attachments/assets/5cb47e70-338d-4ca8-b031-183cacccd775)
 
 #CiscoPacketTracer #Networking #LearningJourney
 
