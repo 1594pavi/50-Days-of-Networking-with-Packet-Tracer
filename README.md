@@ -126,5 +126,52 @@ Today’s practical session helped me understand how a switch works in a star to
 ### 🎥 Day 4 Demo Video
 [Watch the Demo Video](https://github.com/1594pavi/50-Days-of-Networking-with-Packet-Tracer/blob/main/day%204.mp4)
 
-#CiscoPacketTracer #Networking #LearningJourney
 ---
+___________________________________________________________________________________________________________________________________________________________________## 🚀 Day 5/50 – 50 Days of Networking with Packet Tracer
+
+Today I learned about different Cisco Packet Tracer file types and their uses.
+
+✅ Learned the difference between .pka, .pkt, .pksz, and .pkz files
+✅ Understood how Packet Tracer activities and projects are saved
+✅ Explored activity files with instructions and scoring
+✅ Learned about Packet Tracer Tutored Activities (PTTA)
+
+🛠️ Reflection:
+Today’s session helped me understand how Cisco Packet Tracer stores activities, projects, and guided labs. Learning file types made it easier to understand how Packet Tracer activities and assessments work.
+
+---
+
+### 1️⃣ .pka File Type
+
+* Packet Tracer Activity file
+* Contains instructions, scoring, and feedback
+* Used for assignments and assessments
+
+---
+
+### 2️⃣ .pkt File Type
+
+* Standard Packet Tracer project file
+* Used to save network topologies and configurations
+* Most commonly used file type
+
+---
+
+### 3️⃣ .pksz File Type
+
+* Used for Packet Tracer Tutored Activities (PTTA)
+* Provides hints and guided learning support
+
+---
+
+### 4️⃣ .pkz File Type
+
+* Older Packet Tracer file type
+* Previously used to store images and extra files
+* Now considered deprecated
+
+---
+(https://github.com/user-attachments/assets/5cb47e70-338d-4ca8-b031-183cacccd775)
+
+#CiscoPacketTracer #Networking #LearningJourney
+
