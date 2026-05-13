@@ -173,6 +173,31 @@ Today’s session helped me understand how Cisco Packet Tracer stores activities
 ---
 ### Definitions 
 ![Definitions](https://github.com/user-attachments/assets/5cb47e70-338d-4ca8-b031-183cacccd775)
+---
+_________________________________________________________________________________________________________________________________________________________________🚀 Day 6/50 – 50 Days of Networking with Packet Tracer
+Today I worked on a basic switch topology with STP (Spanning Tree Protocol) convergence delay in Cisco Packet Tracer.
 
-#CiscoPacketTracer #Networking #LearningJourney
+✅ Built a star topology using 1 switch and 4 PCs
+✅ Connected all devices using copper straight-through cables
+✅ Manually assigned IP addresses to all PCs
+✅ Observed switch port activation delay due to STP
+✅ Understood port states like listening, learning, and forwarding
+✅ Tested connectivity using the ping command
+✅ Verified STP behavior using show spanning-tree command
+✅ Observed root bridge selection and port roles (root, designated, alternate)
+✅ Used Simulation Mode to track packet flow between devices
+
+🛠️ Reflection:
+This activity helped me understand how switches take time to stabilize using STP and how it prevents loops in a network. I also learned how MAC learning and STP convergence affect initial packet transmission delays, while later transmissions become faster once the network stabilizes.
+
+### Image 1 
+![Image 1](https://github.com/user-attachments/assets/adc535ef-0de2-4f66-b375-a651c5075776)
+
+### Image 2 
+![Image 2](https://github.com/user-attachments/assets/03773187-9a1a-47c0-aa66-71b1b27491b2)
+
+---
+
+
+
 
