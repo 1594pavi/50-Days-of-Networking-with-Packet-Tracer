@@ -174,7 +174,8 @@ Today’s session helped me understand how Cisco Packet Tracer stores activities
 ### Definitions 
 ![Definitions](https://github.com/user-attachments/assets/5cb47e70-338d-4ca8-b031-183cacccd775)
 ---
-_________________________________________________________________________________________________________________________________________________________________🚀 Day 6/50 – 50 Days of Networking with Packet Tracer
+_______________________________________________________________________________________________________________________________________________________________
+🚀 Day 6/50 – 50 Days of Networking with Packet Tracer
 Today I worked on a basic switch topology with STP (Spanning Tree Protocol) convergence delay in Cisco Packet Tracer.
 
 ✅ Built a star topology using 1 switch and 4 PCs
