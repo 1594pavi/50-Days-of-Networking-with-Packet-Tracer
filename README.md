@@ -198,7 +198,81 @@ This activity helped me understand how switches take time to stabilize using STP
 ![Image 2](https://github.com/user-attachments/assets/03773187-9a1a-47c0-aa66-71b1b27491b2)
 
 ---
+________________________________________________________________________________________________________________________________________________________________
+# DAY – 7  
+# Introduction to OSI Model and TCP/IP Model
 
+The OSI Model (Open Systems Interconnection Model) and TCP/IP Model are networking models used to understand how data travels through a network.
 
+Both models divide network communication into layers, where each layer performs a specific function.
 
+---
+
+# OSI Model
+
+The OSI model contains 7 layers.
+
+| Layer | Name | Purpose |
+|---|---|---|
+| 7 | Application | Provides network services to users |
+| 6 | Presentation | Converts and formats data |
+| 5 | Session | Maintains communication sessions |
+| 4 | Transport | Provides reliable communication using TCP/UDP |
+| 3 | Network | Handles IP addressing and routing |
+| 2 | Data Link | Handles MAC address and switching |
+| 1 | Physical | Transfers data through cables and signals |
+
+---
+
+# TCP/IP Model
+
+The TCP/IP model is the practical networking model used on the internet.
+
+It contains 4 layers.
+
+| Layer | Purpose |
+|---|---|
+| Application | User services and communication |
+| Transport | TCP/UDP communication |
+| Internet | IP addressing and routing |
+| Network Access | Physical communication and hardware connection |
+
+---
+
+# Comparison Between OSI and TCP/IP Model
+
+| OSI Model | TCP/IP Model |
+|---|---|
+| 7 Layers | 4 Layers |
+| Reference model | Practical model |
+| More detailed | Simpler |
+| Mainly used for learning | Used in real internet communication |
+| Developed by ISO | Developed by DARPA |
+
+---
+
+# Relation with Cisco Packet Tracer
+
+The OSI and TCP/IP models are related to many concepts used in Cisco Packet Tracer.
+
+Examples:
+- Cable connection → Physical / Network Access Layer
+- Switch → Data Link Layer
+- Router → Network / Internet Layer
+- IP Address → Network Layer
+- TCP communication → Transport Layer
+
+When packets are sent in Simulation Mode, Packet Tracer shows how data travels through different layers during communication.
+
+---
+
+# Advantages
+
+- Helps understand network communication
+- Makes troubleshooting easier
+- Explains how devices communicate
+- Provides a standard structure for networking
+
+---
+___________________________________________________________________________________________________________________________________________________________________
 
