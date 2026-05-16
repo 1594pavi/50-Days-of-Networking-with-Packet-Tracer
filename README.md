@@ -294,8 +294,8 @@ Today’s learning helped me understand how devices identify and communicate wit
 ---
 
 ### IP Addressing and Subnet Mask Basics
+![IP Addressing]("https://github.com/user-attachments/assets/820818fc-cb94-4ceb-8ab8-a9b2f231c36f")
 
-![IP Addressing and Subnet Mask Basics](https://github.com/user-attachments/assets/ebcc157a-232e-409a-8dfd-98f0045860b5")
 
 #CiscoPacketTracer #Networking #IPAddressing #SubnetMask #LearningJourney
 ---
