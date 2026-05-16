@@ -275,4 +275,30 @@ When packets are sent in Simulation Mode, Packet Tracer shows how data travels t
 
 ---
 ___________________________________________________________________________________________________________________________________________________________________
+## Day 8 – Introduction to IP Addressing and Subnet Mask
+
+Today I learned the basics of IP addressing and subnet masks in networking using Cisco Packet Tracer.
+
+✅ Learned:
+
+* What an IP address is and its purpose
+* Difference between Static IP and Dynamic IP
+* Basics of Subnet Mask
+* Purpose of Default Gateway
+* Difference between Public and Private IP addresses
+* How IP addressing relates to networking communication
+
+🛠️ Reflection:
+Today’s learning helped me understand how devices identify and communicate with each other in a network. Understanding IP addressing made networking concepts much clearer.
+
+---
+
+### IP Addressing and Subnet Mask Basics
+
+![IP Addressing and Subnet Mask Basics](https://github.com/user-attachments/assets/ebcc157a-232e-409a-8dfd-98f0045860b5")
+
+#CiscoPacketTracer #Networking #IPAddressing #SubnetMask #LearningJourney
+---
+___________________________________________________________________________________________________________________________________________________________________
+
 
